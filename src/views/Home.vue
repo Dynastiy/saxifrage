@@ -105,6 +105,9 @@
     </div>
 
     <!-- Projects Done  -->
+    <div></div>
+
+    <!-- Blog -->
     <div class="mb-5 container-fluid">
       <h1 class="text-center">Blog</h1>
       <hr style="width: 4rem;" class="mb-5">
