@@ -1,0 +1,7 @@
+Color Codes 
+
+Dark Color - hex - #27314b
+rgb(39,49,75)
+
+Yellow Color - hex -#e2bb5a
+rgb(226, 187, 90)
